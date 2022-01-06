@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zia33  Please call me Zia or Mr. Zia if formal
-- 👀 I’m interested in ... Java Javascript Python (Data Structures and Algorithms And Graphs) (Java Virtual Machine Internals) (Operating System Design and Internals)  (Compilers and compiler construction)
+- 👀 I’m interested in ... Java, C, BASH, SQL, Python, (Data Structures and Algorithms And Graphs) ,   (Java Virtual Machine Internals) , (Operating System Design and Internals)  ,   (Compilers and compiler construction)
 
 - 🌱 I’m currently learning ...[[[[[[[[
 • Data structures, Algorithms, Graph algorithms
