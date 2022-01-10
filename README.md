@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @zia33  Please call me Zia or Mr. Zia if formal
-- 👀 I’m interested in ... Java, C, BASH, SQL, Python, (Data Structures and Algorithms And Graphs) ,   (Java Virtual Machine Internals) , (Operating System Design and Internals)  ,   (Compilers and compiler construction)
+- 👀 I’m interested in ... Java, C, BASH, SQL, Python, (Data Structures and Algorithms And Graphs, soon) ,   (Java Virtual Machine Internals, soon) , (Operating System Design and Internals, soon)  ,   (Compilers and compiler construction in the future)
 
-- 🌱 I’m currently learning ...[[[[[[[[
+- 🌱 I’m currently setting myself up to be learning ...[[[[[[[[
+. Cloud Engineering
 • Data structures, Algorithms, Graph algorithms
 • Operating System internals
 • Java learning path with backend framework
-• Eclipse and some other similar tools
-• Javascript learning path with front end framework
+• Eclipse and/or some other similar tools
 ]]]]]]]]
 
 
