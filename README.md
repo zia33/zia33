@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zia33  Please call me Zia or Mr. Zia if formal
-- 👀 I’m interested in ... Java, C, BASH, SQL, Python, (Data Structures and Algorithms And Graphs, soon) ,   (Java Virtual Machine Internals, soon) , (Operating System Design and Internals, soon)  ,   (Compilers and compiler construction in the future)
+- 👀 I’m interested in ... Cloud Engineering (AWS, Azure, GCP), Java, C, BASH, SQL, Python, (Data Structures and Algorithms And Graphs, soon) ,   (Java Virtual Machine Internals, soon) , (Operating System Design and Internals, soon)  ,   (Compilers and compiler construction in the future)
 
 - 🌱 I’m currently setting myself up to be learning ...[[[[[[[[
 . Cloud Engineering
