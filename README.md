@@ -6,7 +6,7 @@
 • Data structures, Algorithms, Graph algorithms
 • Operating System internals
 • Java learning path with backend framework
-• Eclipse and/or some other similar tools
+• Eclipse and/or VSCode, some other similar tools
 ]]]]]]]]
 
 
